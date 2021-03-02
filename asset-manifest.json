@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jpvajda-react.github.io/static/css/main.a4794f81.chunk.css",
-    "main.js": "/jpvajda-react.github.io/static/js/main.c7cba7c1.chunk.js",
-    "main.js.map": "/jpvajda-react.github.io/static/js/main.c7cba7c1.chunk.js.map",
+    "main.js": "/jpvajda-react.github.io/static/js/main.e9c56bf6.chunk.js",
+    "main.js.map": "/jpvajda-react.github.io/static/js/main.e9c56bf6.chunk.js.map",
     "runtime-main.js": "/jpvajda-react.github.io/static/js/runtime-main.b488bbec.js",
     "runtime-main.js.map": "/jpvajda-react.github.io/static/js/runtime-main.b488bbec.js.map",
     "static/js/2.f86a441e.chunk.js": "/jpvajda-react.github.io/static/js/2.f86a441e.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b488bbec.js",
     "static/js/2.f86a441e.chunk.js",
     "static/css/main.a4794f81.chunk.css",
-    "static/js/main.c7cba7c1.chunk.js"
+    "static/js/main.e9c56bf6.chunk.js"
   ]
 }
